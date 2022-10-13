@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Dicoding**
 
-- 📫 How to reach me **holycastaneda@gmail.com**
+- 📫 How to reach me **holycastaneda28@gmail.com**
 
 - ⚡ Fun fact **I'm Sleepy**
 
