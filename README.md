@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zakkaulwann" target="blank"><img src="https://img.shields.io/twitter/follow/zakkaulwann?logo=twitter&style=for-the-badge" alt="zakkaulwann" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Dicoding**
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **zakkaulwa123@gmail.com**
+- 📫 How to reach me **hollycastaneda@gmail.com**
 
 - ⚡ Fun fact **I'm Sleepy**
 
