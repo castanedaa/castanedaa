@@ -1,4 +1,5 @@
 [![@zakkaulwann's Holopin board](https://holopin.me/zakkaulwann)](https://holopin.io/@zakkaulwann)
+
 <h1 align="center">Hi 👋, I'm Zakka Ulwan</h1>
 <h3 align="center">Not a passionate developer from Indonesia</h3>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Dicoding**
 
-- 📫 How to reach me **hollycastaneda@gmail.com**
+- 📫 How to reach me **holycastaneda@gmail.com**
 
 - ⚡ Fun fact **I'm Sleepy**
 
